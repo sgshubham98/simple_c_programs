@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
- int a=3,b=2,sum;
- sum = a + b;
- printf(“%d”,sum);
+ int a=30,b=20,sub;
+ sub = a - b;
+ printf(“%d”,sub);
  return 0;
 }
 
